@@ -1,0 +1,20 @@
+MG230270.1	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Hafniaceae;Edwardsiella;Edwardsiella anguillarum
+EU118083.1	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica
+FJ032012.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp. CTN-11
+JF309152.1	Eukaryota;Apicomplexa;Aconoidasida;NA;Theileriidae;Theileria;Theileria lestoquardi
+KX148516.1	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp. C9
+MF114221.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+LC168602.1	Bacteria;Proteobacteria;Gammaproteobacteria;NA;NA;NA;gamma proteobacterium symbiont of Graphosoma rubrolineatum
+NR_137230.1	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;Eionea;Eionea flava
+JN191220.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Pan;Pan troglodytes
+EF373298.1	Eukaryota;Chordata;Aves;Columbiformes;Columbidae;Gallicolumba;Gallicolumba jobiensis
+LC018184.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Ehrlichia;Ehrlichia canis
+KP999172.1	Eukaryota;Chordata;Amphibia;Anura;Brachycephalidae;Brachycephalus;Brachycephalus ephippium
+KY041847.1	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia sp.
+HG322899.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;NA;NA;Burkholderiales bacterium F2V13H04
+NR_041747.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter sacchari
+MF111358.1	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;Stenotrophomonas sp.
+HM026020.1	Eukaryota;Chordata;Mammalia;Carnivora;Mustelidae;Martes;Martes martes
+AB715354.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. NCCP-757
+FJ815435.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus sp. 16C
+AY972288.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
