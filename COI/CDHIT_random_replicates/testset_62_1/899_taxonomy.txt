@@ -1,0 +1,44 @@
+KY660277.1	Eukaryota;Arthropoda;Malacostraca;Decapoda;Palaemonidae;Palaemon;Palaemon capensis
+KY408780.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+KM592608.1	Eukaryota;Mollusca;Gastropoda;Stylommatophora;Helicidae;Allognathus;Allognathus hispanicus
+KR391874.1	Eukaryota;Arthropoda;Insecta;Diptera;Tabanidae;NA;Tabaninae sp. BOLD:AAG4576
+HM409305.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;NA;NA;Lepidoptera sp. BOLD:AAC3486
+EF080506.1	Eukaryota;Chordata;Mammalia;Chiroptera;Vespertilionidae;Myotis;Myotis riparius PS3
+AB688160.1	Eukaryota;NA;Oomycetes;Peronosporales;NA;Phytophthora;Phytophthora cactorum
+HQ963973.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;NA;NA;Lepidoptera sp. BOLD:AAA7979
+FN552871.1	Eukaryota;Porifera;Demospongiae;Dictyoceratida;Irciniidae;Ircinia;Ircinia sp. G306067
+JQ390324.1	Eukaryota;Arthropoda;Malacostraca;Amphipoda;Talitridae;Orchestia;Orchestia montagui
+KR223616.1	Eukaryota;Arthropoda;Insecta;Diptera;Cecidomyiidae;NA;Cecidomyiidae sp. BOLD:AAU6597
+KC975370.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Tenthredinidae;Perineura;Perineura rubi
+KT620361.1	Eukaryota;Arthropoda;Insecta;Diptera;Phoridae;Megaselia;Megaselia arcticae
+KR928678.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Dryinidae;NA;Dryinidae sp. BOLD-2016
+KM447451.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Staphylinidae;Myllaena;Myllaena intermedia
+KU054645.1	Eukaryota;Arthropoda;Arachnida;Araneae;Theraphosidae;Aphonopelma;Aphonopelma sp. APH_0542
+KT081253.1	Eukaryota;Arthropoda;Insecta;Diptera;Phoridae;NA;Phoridae sp. BOLD-2016
+JQ976699.1	Eukaryota;Arthropoda;Insecta;Hemiptera;Cicadellidae;Empoasca;Empoasca vitis
+KM442215.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Brentidae;Exapion;Exapion formaneki
+KP044864.1	Eukaryota;Arthropoda;Insecta;Diptera;Sciaridae;NA;Sciaridae sp. BOLD:ABA6443
+KF052970.1	Eukaryota;Mollusca;Polyplacophora;Neoloricata;Lepidopleuridae;Lepidopleurus;Lepidopleurus cajetanus
+LC163621.1	Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Ammodytes;Ammodytes heian
+KR803685.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Ichneumonidae;Stenomacrus;Stenomacrus sp. BOLD-2016
+KM445727.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Nitidulidae;Amphotis;Amphotis marginata
+KX144603.1	Eukaryota;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;Lepidostoma;Lepidostoma satoi
+KR508494.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;NA;Orthocladiinae sp. BOLD-2016
+KF671031.1	Eukaryota;Arthropoda;Insecta;Diptera;Culicidae;Toxorhynchites;Toxorhynchites sp. TIP1
+KJ167228.1	Eukaryota;Arthropoda;Insecta;Neuroptera;Hemerobiidae;Hemerobius;Hemerobius sp. BOLD:AAG0892
+KC150058.1	Eukaryota;Arthropoda;Collembola;NA;Sminthuridae;Sminthurus;Sminthurus viridis
+KP253424.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Nepticulidae;Stigmella;Stigmella tityrella
+KM648672.1	Eukaryota;Arthropoda;Insecta;Diptera;Sciaridae;NA;Sciaridae sp. BOLD:AAV1341
+AB813235.1	Eukaryota;Arthropoda;Insecta;Odonata;Megapodagrionidae;Rhipidolestes;Rhipidolestes amamiensis
+JF751183.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Notodontidae;Bardaxima;Bardaxima sp. persesDHJ03
+KM362847.1	Eukaryota;Arthropoda;Insecta;Diptera;Culicidae;Culex;Culex tritaeniorhynchus
+GU817255.1	Eukaryota;Chordata;Actinopteri;Cichliformes;Cichlidae;Amphilophus;Amphilophus calobrensis
+KU692357.1	Eukaryota;Chordata;Actinopteri;Gobiiformes;Eleotridae;Belobranchus;Belobranchus segura
+KR413178.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Ichneumonidae;NA;Ctenopelmatinae sp. BOLD:ACM8622
+KR406915.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Dinotrema;Dinotrema sp. BOLD:ACH2795
+KY842345.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;NA;Chironomidae sp. BIOUG02136-H05
+HM033734.1	Eukaryota;Chordata;Aves;Passeriformes;Sylviidae;Regulus;Regulus calendula
+AY785219.1	Eukaryota;Rotifera;Monogononta;Ploima;Brachionidae;Brachionus;Brachionus plicatilis
+KR944887.1	Eukaryota;Arthropoda;Insecta;Diptera;Cecidomyiidae;NA;Cecidomyiidae sp. BOLD-2016
+KR291631.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;Chironomus;Chironomus acidophilus
+KR862252.1	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Squaliobarbus;Squaliobarbus curriculus

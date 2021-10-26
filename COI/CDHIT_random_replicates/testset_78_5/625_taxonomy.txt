@@ -1,0 +1,25 @@
+AM114929.1	Eukaryota;Arthropoda;Insecta;Blattodea;Blattidae;Periplaneta;Periplaneta japonica
+KY645642.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+KY841367.1	Eukaryota;Arthropoda;Insecta;Diptera;Psychodidae;Psychoda;Psychoda alternata
+KR757034.1	Eukaryota;Arthropoda;Insecta;Diptera;Sphaeroceridae;Spelobia;Spelobia frustrilabris
+KJ909360.1	Eukaryota;Chordata;Actinopteri;Siluriformes;Bagridae;Hemibagrus;Hemibagrus microphthalmus
+KT963560.1	Eukaryota;Arthropoda;Arachnida;Araneae;Lycosidae;Schizocosa;Schizocosa ocreata
+KY362547.1	Eukaryota;Chordata;Amphibia;Anura;Leptodactylidae;Crossodactylodes;Crossodactylodes itambe
+KR678761.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;Metriocnemus;Metriocnemus sp. 7ES
+KM842846.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Chrysomelidae;Chrysomela;Chrysomela sp. BOLD:AAE9204
+KM849278.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Staphylinidae;NA;Staphylinidae sp. BOLD:ACC5897
+KM548313.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Blastobasidae;Pigritia;Pigritia sp. n. P7
+KR689101.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;NA;Chironomidae sp. BOLD-2016
+KR279642.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;NA;Chironomidae sp. BOLD:ABU5526
+HQ950761.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Noctuidae;Acrapex;Acrapex exsanguis
+KM539674.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Noctuidae;Papestra;Papestra cristifera
+DQ823275.1	Eukaryota;Echinodermata;Crinoidea;Comatulida;Antedonidae;Promachocrinus;Promachocrinus kerguelensis
+EU931487.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Crambidae;Chilo;Chilo suppressalis
+KR228583.1	Eukaryota;Arthropoda;Insecta;Diptera;Cecidomyiidae;NA;Cecidomyiidae sp. BOLD:AAN5193
+KM572131.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Tortricidae;Notocelia;Notocelia tetragonana
+KR038440.1	Eukaryota;Arthropoda;Insecta;Hemiptera;Cicadellidae;Hymetta;Hymetta balteata
+KC569011.1	Eukaryota;Mollusca;Gastropoda;Stylommatophora;Orculidae;Orcula;Orcula dolium
+KT807608.1	Eukaryota;Nematoda;Chromadorea;Rhabditida;Trichostrongylidae;Orloffia;Orloffia buriatica
+EU145722.1	Eukaryota;Chordata;Actinopteri;Tetraodontiformes;Monacanthidae;Thamnaconus;Thamnaconus modestoides
+JQ354361.1	Eukaryota;Chordata;Actinopteri;Perciformes;Sebastidae;Sebastes;Sebastes chrysomelas
+JQ672851.1	Eukaryota;Mollusca;Gastropoda;NA;Vermetidae;Dendropoma;Dendropoma petraeum

@@ -1,0 +1,26 @@
+KM203247.1	Eukaryota;Arthropoda;Insecta;Diptera;Culicidae;Aedes;Aedes aegypti
+EU489710.1	Eukaryota;Chordata;Actinopteri;Lutjaniformes;Lutjanidae;Lutjanus;Lutjanus argentiventris
+KY782894.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Crambidae;Ostrinia;Ostrinia furnacalis
+KM610126.1	Eukaryota;Arthropoda;Collembola;NA;Entomobryidae;Entomobryoides;Entomobryoides dissimilis
+KR657517.1	Eukaryota;Arthropoda;Insecta;Diptera;Sciaridae;Scatopsciara;Scatopsciara atomaria
+KY409111.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+JN813049.1	Eukaryota;Chordata;Actinopteri;Characiformes;Bryconidae;Salminus;Salminus brasiliensis
+KR117914.1	Eukaryota;Arthropoda;Collembola;NA;Entomobryidae;Entomobrya;Entomobrya nivalis
+AM932785.1	Eukaryota;Mollusca;Gastropoda;NA;Potamididae;Cerithidea;Cerithidea djadjariensis
+KR425255.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Chrysomelidae;NA;Alticinae sp. 168
+HQ934921.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;NA;NA;Lepidoptera sp. BOLD:AAF5769
+HM540664.1	Eukaryota;Chordata;Mammalia;Chiroptera;Vespertilionidae;Kerivoula;Kerivoula cf. hardwickii CMF-2010
+KC550703.1	Eukaryota;Arthropoda;Arachnida;Araneae;Lycosidae;Lycosa;Lycosa suboculata
+GU086927.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Ichneumonidae;NA;Ichneumoninae sp. BOLD:AAE2749
+KP048388.1	Eukaryota;Arthropoda;Insecta;Diptera;Hybotidae;NA;Hybotidae sp. BOLD:ACC8954
+KT208635.1	Eukaryota;Arthropoda;Malacostraca;Decapoda;Processidae;Processa;Processa nouveli
+KY323068.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Crambidae;Prophantis;Prophantis sp. AAD0236
+KP684619.1	Eukaryota;NA;Oomycetes;Peronosporales;Peronosporaceae;Bremia;Bremia lapsanae
+KM647583.1	Eukaryota;Arthropoda;Insecta;Diptera;Cecidomyiidae;NA;Cecidomyiidae sp. BOLD:AAY6409
+KT209053.1	Eukaryota;Arthropoda;Malacostraca;Isopoda;Cirolanidae;Eurydice;Eurydice pulchra
+KR878330.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;NA;Alysiinae sp. BOLD-2016
+JN200477.1	Eukaryota;Arthropoda;Insecta;Trichoptera;Brachycentridae;Brachycentrus;Brachycentrus americanus
+DQ471551.1	Eukaryota;Arthropoda;Insecta;Diptera;Drosophilidae;Drosophila;Drosophila perlucida
+GQ168541.1	Eukaryota;Arthropoda;Arachnida;Scorpiones;Buthidae;Buthus;Buthus sp. Sc161
+KM853928.1	Eukaryota;Arthropoda;Insecta;Diptera;Anthomyiidae;Pegomya;Pegomya winthemi
+AY586612.1	Eukaryota;Platyhelminthes;Cestoda;Cyclophyllidea;Anoplocephalidae;Lemminia;Lemminia fellmani

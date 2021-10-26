@@ -1,0 +1,63 @@
+AY146401.1	Eukaryota;Mollusca;Gastropoda;NA;Haliotidae;Haliotis;Haliotis diversicolor
+KR858088.1	Eukaryota;Chordata;NA;Squamata;Gekkonidae;Gehyra;Gehyra oceanica
+AB642646.1	Eukaryota;Mollusca;Gastropoda;NA;Nassariidae;Nassarius;Nassarius festivus
+MF616978.1	Eukaryota;Echinodermata;Echinoidea;Clypeasteroida;Mellitidae;Encope;Encope aberrans
+DQ305014.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+JN870101.1	Eukaryota;Platyhelminthes;Cestoda;Cyclophyllidea;Taeniidae;Taenia;Taenia pisiformis
+HQ548913.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Apanteles;Apanteles sp. Rodriguez131
+DQ336411.1	Eukaryota;Arthropoda;Insecta;Diptera;Tachinidae;Sturmiopsis;Sturmiopsis parasitica
+KM104212.1	Eukaryota;Chordata;NA;Crocodylia;Crocodylidae;Mecistops;Mecistops cataphractus
+KM623253.1	Eukaryota;Arthropoda;Collembola;NA;NA;NA;Collembola sp. BOLD:ACC2704
+KR869268.1	Eukaryota;Chordata;Amphibia;Anura;Bombinatoridae;Bombina;Bombina orientalis
+KM835017.1	Eukaryota;Arthropoda;Arachnida;Oribatida;Oribatulidae;NA;Oribatulidae sp. BOLD:ACD9057
+KT175514.1	Eukaryota;Chordata;Actinopteri;Cyprinodontiformes;Poeciliidae;Poecilia;Poecilia formosa
+EU396898.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Apanteles;Apanteles sp. Rodriguez17
+KR414385.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Mymaridae;Ooctonus;Ooctonus notatus
+KU290509.1	Eukaryota;Chordata;Mammalia;Carnivora;Canidae;Canis;Canis lupus
+KR635070.1	Eukaryota;Arthropoda;Insecta;Diptera;Anthomyiidae;Hydrophoria;Hydrophoria lancifer
+DQ108251.1	Eukaryota;Chordata;Chondrichthyes;Squaliformes;Squalidae;Squalus;Squalus edmundsi
+JQ546349.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Crambidae;Spilomelinae gen. spiloBioLep01;Spilomelinae gen. spiloBioLep01 sp. BioLep458
+KR739007.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;Cladotanytarsus;Cladotanytarsus sp. BOLD-2016
+KC418080.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Formicidae;Hypoponera;Hypoponera sp. MAS006
+KR679798.1	Eukaryota;Arthropoda;Insecta;Diptera;Anthomyiidae;NA;Anthomyiidae sp. BOLD-2016
+AY258186.1	Eukaryota;Arthropoda;Insecta;Diptera;Culicidae;Anopheles;Anopheles messeae
+HQ329756.1	Eukaryota;Chordata;NA;Testudines;Testudinidae;Gopherus;Gopherus agassizii
+KM639366.1	Eukaryota;Arthropoda;Insecta;Diptera;Fanniidae;Fannia;Fannia postica
+KM897108.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Apanteles;Apanteles ensiger
+HQ978596.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Apidae;Bombus;Bombus impatiens
+KM546306.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Gelechiidae;Anacampsis;Anacampsis conclusella
+JN312100.1	Eukaryota;Chordata;Mammalia;Rodentia;Cricetidae;Peromyscus;Peromyscus maniculatus
+KR288798.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;NA;Chironomidae sp. BOLD:AAI4193
+MF614815.1	Eukaryota;Arthropoda;Insecta;Hemiptera;Liviidae;Diaphorina;Diaphorina citri
+KU342044.1	Eukaryota;Arthropoda;Chilopoda;Scolopendromorpha;Cryptopidae;Cryptops;Cryptops hortensis
+HM434579.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Cheloninae gen. chelJanzen01;Cheloninae gen. chelJanzen01 sp. Janzen26
+KY224653.1	Eukaryota;Arthropoda;Insecta;Blattodea;Termitidae;Anoplotermes;Anoplotermes janus
+KR040500.1	Eukaryota;Arthropoda;Insecta;Hemiptera;Saldidae;Saldula;Saldula saltatoria
+KR145765.1	Eukaryota;Arthropoda;Insecta;Orthoptera;Acrididae;Melanoplus;Melanoplus borealis
+KR367032.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Platygastridae;NA;Platygastridae sp. BOLD:ACI2724
+JN004009.1	Eukaryota;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;Scolopendra;Scolopendra cf. morsitans JJ-2011
+KJ207446.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Crambidae;Agriphila;Agriphila ruricolella
+KU932107.1	Eukaryota;Chordata;Mammalia;NA;Bovidae;Bubalus;Bubalus bubalis
+KM613548.1	Eukaryota;Arthropoda;Collembola;NA;Entomobryidae;NA;Entomobryinae sp. BOLD:AAN4952
+JX219855.1	Eukaryota;Arthropoda;Malacostraca;Decapoda;Munididae;Munida;Munida gracilis
+KF596876.1	Eukaryota;Mollusca;Gastropoda;Stylommatophora;Helicidae;Josephinella;Josephinella hemonica
+KX119442.1	Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+KR643759.1	Eukaryota;Arthropoda;Insecta;Diptera;Muscidae;Spilogona;Spilogona griseola
+KU060621.1	Eukaryota;Porifera;Demospongiae;NA;NA;NA;Demospongiae sp. GW3360
+JF784756.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Geometridae;Apeira;Apeira syringaria
+KM918832.1	Eukaryota;Arthropoda;Insecta;Diptera;Sciaridae;NA;Sciaridae sp. BOLD:ACI4470
+KM954522.1	Eukaryota;Arthropoda;Insecta;Diptera;Sciaridae;NA;Sciaridae sp. BOLD:ACN8242
+GU095089.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Drepanidae;Habrosyne;Habrosyne scripta
+KR435071.1	Eukaryota;Arthropoda;Insecta;Diptera;Phoridae;Megaselia;Megaselia sp. BOLD-2016
+KT996739.1	Eukaryota;Mollusca;Gastropoda;NA;Littorinidae;Melarhaphe;Melarhaphe neritoides
+KR775883.1	Eukaryota;Arthropoda;Insecta;Diptera;Sciaridae;Corynoptera;Corynoptera perpusilla
+KR666058.1	Eukaryota;Arthropoda;Insecta;Diptera;Cecidomyiidae;NA;Cecidomyiidae sp. BOLD-2016
+KR175037.1	Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;Paratendipes;Paratendipes sp. BOLD:AAG5473
+KR498262.1	Eukaryota;Arthropoda;Insecta;Diptera;Cecidomyiidae;NA;Cecidomyiidae sp. BOLD-2016
+HM894183.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Pyralidae;Epipaschiinae gen. epipajanzen01;Epipaschiinae gen. epipajanzen01 sp. Janzen22
+EU243496.1	Eukaryota;Arthropoda;Malacostraca;Decapoda;Chirostylidae;Eumunida;Eumunida annulosa
+JQ754863.1	Eukaryota;Arthropoda;Maxillopoda;Sessilia;Chthamalidae;Chthamalus;Chthamalus malayensis
+GU090605.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Geometridae;Operophtera;Operophtera bruceata
+KP260934.1	Eukaryota;Chordata;Amphibia;Anura;Ranidae;Pelophylax;Pelophylax cf. bedriagae GM178
+KY048333.1	Eukaryota;Arthropoda;Insecta;Siphonaptera;Pulicidae;Ctenocephalides;Ctenocephalides felis
+EU399009.1	Eukaryota;Chordata;Chondrichthyes;Pristiformes/Rhiniformes group;Rhynchobatidae;Rhynchobatus;Rhynchobatus australiae
