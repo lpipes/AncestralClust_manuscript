@@ -1,0 +1,61 @@
+JN886802.1	Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium griseofulvum
+KU350743.1	Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces;Saccharomyces cerevisiae
+AY055799.1	Eukaryota;NA;NA;Tritrichomonadida;Tritrichomonadidae;Tritrichomonas;Tritrichomonas foetus
+KP192389.1	Eukaryota;NA;Florideophyceae;Corallinales;Corallinaceae;Lithophyllum;Lithophyllum atlanticum
+AF136427.1	Eukaryota;NA;Bangiophyceae;Bangiales;Bangiaceae;Porphyra;Porphyra sp.
+HM853811.1	Eukaryota;NA;Dinophyceae;Dinophysiales;Dinophysiaceae;Dinophysis;Dinophysis odiosa
+GQ410674.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Aphelinidae;Coccophagus;Coccophagus rusti
+JQ957895.1	Eukaryota;Nematoda;Chromadorea;Tylenchida;Aphelenchoididae;Aphelenchoides;Aphelenchoides fragariae
+FM205841.1	Eukaryota;Chlorophyta;Trebouxiophyceae;NA;NA;Actinastrum;Actinastrum hantzschii
+AB690555.1	Eukaryota;NA;Polycystinea;Collodaria;Sphaerozoidae;Collozoum;Collozoum inerme
+EU096222.1	Eukaryota;NA;Dinophyceae;Syndiniales;Syndiniaceae;Hematodinium;Hematodinium sp. ex Carcinus maenas
+KF155282.1	Eukaryota;Nematoda;Chromadorea;Tylenchida;Neotylenchidae;Rubzovinema;Rubzovinema sp. EIK-2013
+AB794979.1	Eukaryota;NA;Litostomatea;Vestibuliferida;Pycnotrichidae;Buxtonella;Buxtonella sulcata
+KF625533.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Throscidae;NA;Throscidae sp. UPOL RK0138
+EF550457.1	Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera;Cyberlindnera amylophila
+KF219558.1	Eukaryota;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium ovale
+KM014493.1	Eukaryota;Nematoda;Chromadorea;Tylenchida;Hoplolaimidae;Helicotylenchus;Helicotylenchus crenacauda
+BX053765.1	Eukaryota;Arthropoda;Insecta;Diptera;Culicidae;Anopheles;Anopheles gambiae
+LC126918.1	Eukaryota;NA;Heterolobosea;Schizopyrenida;Vahlkampfiidae;Neovahlkampfia;Neovahlkampfia nana
+AY425641.1	Eukaryota;Ascomycota;Lecanoromycetes;Lecanorales;Psoraceae;Protoblastenia;Protoblastenia terricola
+KM096319.1	Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;NA;NA;Pleosporales sp. MF512
+AJ972504.1	Eukaryota;NA;NA;Rotaliida;Anomalinidae;Cibicidoides;Cibicidoides cicatricosus
+KY610811.1	Eukaryota;Cnidaria;Scyphozoa;Semaeostomeae;Pelagiidae;Chrysaora;Chrysaora hysoscella
+KP719187.1	Eukaryota;NA;NA;NA;Vexilliferidae;Vexillifera;Vexillifera westveldii
+AB926280.1	Eukaryota;Arthropoda;Arachnida;Trombidiformes;Tetranychidae;Oligonychus;Oligonychus clavatus
+JN232932.1	Eukaryota;Arthropoda;Malacostraca;Isopoda;Trichoniscidae;Trichoniscoides;Trichoniscoides albidus
+AY617148.1	Eukaryota;NA;Florideophyceae;Gracilariales;Gracilariaceae;Gracilariopsis;Gracilariopsis longissima
+EU336097.1	Eukaryota;Arthropoda;Insecta;Siphonaptera;Pulicidae;Spilopsyllus;Spilopsyllus cuniculi
+KY215037.1	Eukaryota;Streptophyta;Liliopsida;Zingiberales;Heliconiaceae;Heliconia;Heliconia lentiginosa
+HQ901731.1	Eukaryota;Chytridiomycota;Chytridiomycetes;Spizellomycetales;Powellomycetaceae;Geranomyces;Geranomyces variabilis
+AF529272.1	Eukaryota;Apicomplexa;Aconoidasida;NA;Theileriidae;Theileria;Theileria sp. ex Yamaguchi Sika Deer
+KU738571.1	Eukaryota;NA;Heterolobosea;Acrasida;Guttulinaceae;Guttulinopsis;Guttulinopsis vulgaris
+KF577971.1	Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Ostreococcus;Ostreococcus sp. cult-48
+KR780936.1	Eukaryota;Platyhelminthes;Cestoda;Bothriocephalidea;Bothriocephalidae;Kirstenella;Kirstenella gordoni
+DQ207597.1	Eukaryota;NA;NA;Kinetoplastida;Bodonidae;Rhynchomonas;Rhynchomonas nasuta
+EF999902.1	Eukaryota;Euglenida;NA;Euglenales;Euglenaceae;Trachelomonas;Trachelomonas sp. T815
+AF240355.1	Eukaryota;Microsporidia;NA;NA;NA;Endoreticulatus;Endoreticulatus sp.
+JQ013744.1	Eukaryota;NA;NA;Rotaliida;Buliminellidae;Buliminella;Buliminella tenuata
+EF123830.1	Eukaryota;Annelida;Polychaeta;Phyllodocida;Syllidae;Syllides;Syllides convolutus
+AB365646.1	Eukaryota;NA;Heterolobosea;NA;NA;Stephanopogon;Stephanopogon minuta
+LN886755.1	Eukaryota;NA;NA;Rotaliida;Bolivinitidae;Saidovina;Saidovina sp. FF408
+AF136431.1	Eukaryota;NA;Bangiophyceae;Bangiales;Bangiaceae;Porphyra;Porphyra sp.
+AF168842.1	Eukaryota;Streptophyta;Liliopsida;Zingiberales;Musaceae;Ensete;Ensete ventricosum
+KX499573.1	Eukaryota;NA;Florideophyceae;Ceramiales;Rhodomelaceae;Melanothamnus;Melanothamnus unilateralis
+FJ812334.1	Eukaryota;Arthropoda;Malacostraca;Decapoda;Hymenosomatidae;Hymenosoma;Hymenosoma sp. 2 PRT-2008
+AF387156.1	Eukaryota;Chlorophyta;Ulvophyceae;Ulotrichales;NA;Hazenia;Hazenia basiliensis
+KP793917.1	Eukaryota;Chlorophyta;Trebouxiophyceae;Chlorellales;Chlorellaceae;Chlorella;Chlorella sp. Dc057
+KP762819.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Chrysomelidae;Labidostomis;Labidostomis taxicornis
+AF331942.1	Eukaryota;Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula;Rhodotorula sp. RWT24
+KY791421.1	Eukaryota;Arthropoda;Arachnida;Araneae;Amaurobiidae;Pireneitega;Pireneitega sp. ZZ667
+MF754124.1	Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;NA;Diutina;Diutina rugosa
+KM279710.1	Eukaryota;Cnidaria;Scyphozoa;Semaeostomeae;Cyaneidae;Cyanea;Cyanea tzetlinii
+KF218748.1	Eukaryota;Arthropoda;Chilopoda;Scutigeromorpha;Scutigeridae;Dendrothereua;Dendrothereua sp. MCZ IZ-89420
+AJ841529.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Cerambycidae;Phytoecia;Phytoecia algerica
+FJ911825.1	Eukaryota;Arthropoda;Arachnida;Mesostigmata;Parholaspididae;Parholaspulus;Parholaspulus sp. APGD-2010
+JF950359.1	Eukaryota;Bryozoa;Gymnolaemata;Cheilostomatida;Romancheinidae;Escharoides;Escharoides angela
+LT629081.1	Eukaryota;NA;NA;Rotaliida;Nummulitidae;Operculina;Operculina ammonoides
+JN807318.2	Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Dunaliellaceae;Dunaliella;Dunaliella sp. MBTD-CMFRI-S122
+KU512836.1	Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;Aspergillus fumigatus
+KF625564.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Eucnemidae;NA;Eucnemidae sp. UPOL RK0350
+KC178872.1	Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Meyerozyma;Meyerozyma guilliermondii

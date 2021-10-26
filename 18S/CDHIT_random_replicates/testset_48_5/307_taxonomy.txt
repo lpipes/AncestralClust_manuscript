@@ -1,0 +1,41 @@
+CP008281.1	Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces;Saccharomyces cerevisiae
+AB586027.1	Eukaryota;Apicomplexa;Aconoidasida;NA;Babesiidae;Babesia;Babesia sp. Iwate248
+AJ307743.1	Eukaryota;NA;NA;Astrorhizida;Psammosphaeridae;Psammosphaera;Psammosphaera sp. 1018
+EU815235.1	Eukaryota;Arthropoda;Insecta;Neuroptera;Ascalaphidae;Ululodes;Ululodes quadripunctatus
+EU874986.1	Eukaryota;Arthropoda;Malacostraca;Decapoda;Callianideidae;Thomassinia;Thomassinia gebioides
+JX984662.1	Eukaryota;Arthropoda;Hexanauplia;Calanoida;Pseudodiaptomidae;Pseudodiaptomus;Pseudodiaptomus annandalei
+KC218403.1	Eukaryota;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;Bullagummizoanthus;Bullagummizoanthus emilyacadiaarum
+DQ207578.1	Eukaryota;NA;NA;Kinetoplastida;Bodonidae;Neobodo;Neobodo designis
+JQ045342.1	Eukaryota;NA;Oligohymenophorea;Hymenostomatida;Tetrahymenidae;Tetrahymena;Tetrahymena rostrata
+HF952605.1	Eukaryota;NA;Cryptophyta;Pyrenomonadales;Pyrenomonadaceae;Rhodomonas;Rhodomonas sp. CCMP275
+AF026620.1	Eukaryota;Basidiomycota;Agaricomycetes;Geastrales;Geastraceae;Geastrum;Geastrum saccatum
+KF527258.1	Eukaryota;Mollusca;Polyplacophora;Neoloricata;Lepidopleuridae;Leptochiton;Leptochiton intermedius
+KR869870.1	Eukaryota;Chlorophyta;Chlorophyceae;NA;NA;Jenufa;Jenufa sp. I5c
+AM168111.1	Eukaryota;NA;NA;Acytosteliales;Acytosteliaceae;Acytostelium;Acytostelium leptosomum
+KY650777.1	Eukaryota;Bacillariophyta;Bacillariophyceae;Mastogloiales;Achnanthaceae;Planothidium;Planothidium caputium
+LC200469.1	Eukaryota;Cnidaria;NA;Multivalvulida;Kudoidae;Kudoa;Kudoa hexapunctata
+FN557541.1	Eukaryota;NA;Dinophyceae;NA;NA;Stoeckeria;Stoeckeria sp. SSMS0806
+KU926701.1	Eukaryota;NA;NA;Cercomonadida;Cercomonadidae;Cercomonas;Cercomonas hederae
+KU320451.1	Eukaryota;Arthropoda;Insecta;Mantodea;Thespidae;Oligonicella;Oligonicella sp. 1 JMR-2016
+HQ157441.1	Eukaryota;Microsporidia;NA;NA;Glugeidae;Loma;Loma wallae
+JF913896.1	Eukaryota;Chlorophyta;Trebouxiophyceae;Microthamniales;NA;Elliptochloris;Elliptochloris marina
+KM062691.1	Eukaryota;Xenacoelomorpha;Nemertodermatida;NA;Nemertodermatidae;Sterreria;Sterreria papuensis
+CR380958.2	Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces;[Candida] glabrata
+AB080304.1	Eukaryota;Chlorophyta;Trebouxiophyceae;NA;NA;Pseudochloris;Pseudochloris wilhelmii
+JN120233.1	Eukaryota;NA;Oligohymenophorea;Sessilida;Vorticellidae;Vorticella;Vorticella gracilis
+KX113517.1	Eukaryota;Nematoda;Chromadorea;Diplogasterida;Neodiplogasteridae;Pristionchus;Pristionchus sp. 3 CW-2016
+KC136643.1	Eukaryota;NA;NA;Trichonymphida;Trichonymphidae;Trichonympha;Trichonympha collaris
+KU306697.1	Eukaryota;Nematoda;Chromadorea;Ascaridida;Anisakidae;Contracaecum;Contracaecum osculatum
+XM_007720786.1	Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Bipolaris;Bipolaris zeicola
+AY260175.1	Eukaryota;Apicomplexa;Aconoidasida;NA;Theileriidae;Theileria;Theileria separata
+LN873683.1	Eukaryota;NA;NA;Astrorhizida;Saccamminidae;Hippocrepinella;Hippocrepinella hirudinea
+JN831847.1	Eukaryota;NA;Spirotrichea;Tintinnida;Codonellidae;Tintinnopsis;Tintinnopsis tenuis
+KJ094566.1	Eukaryota;Tardigrada;Heterotardigrada;Echiniscoidea;Echiniscidae;Mopsechiniscus;Mopsechiniscus franciscae
+KC529408.1	Eukaryota;Platyhelminthes;NA;Rhabdocoela;Trigonostomidae;Proxenetes;Proxenetes fasciger
+DQ279934.1	Eukaryota;Brachiopoda;Craniata;Craniida;Craniidae;Novocrania;Novocrania anomala
+JX645243.1	Eukaryota;Brachiopoda;Craniata;Craniida;Craniidae;Novocrania;Novocrania cf. lecointei PACR1
+FR852604.1	Eukaryota;Streptophyta;Zygnemophyceae;Desmidiales;Desmidiaceae;Micrasterias;Micrasterias fimbriata
+JN635262.1	Eukaryota;NA;Oomycetes;Peronosporales;Peronosporaceae;Phytophthora;Phytophthora alticola
+AY611462.1	Eukaryota;Annelida;Polychaeta;Terebellida;Terebellidae;Thelepus;Thelepus cincinnatus
+HE609032.1	Eukaryota;NA;Dinophyceae;Syndiniales;Syndiniaceae;Hematodinium;Hematodinium sp. ex Nephrops norvegicus
+JQ663846.1	Eukaryota;Ascomycota;Eurotiomycetes;Coryneliales;Coryneliaceae;Corynelia;Corynelia uberata

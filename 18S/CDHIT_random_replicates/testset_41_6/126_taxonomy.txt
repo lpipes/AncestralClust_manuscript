@@ -1,0 +1,56 @@
+AC129664.7	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+KY016280.1	Eukaryota;Arthropoda;Arachnida;Araneae;Amaurobiidae;Rubrius;Rubrius antarcticus
+KP762912.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Chrysomelidae;Phyllotreta;Phyllotreta variipennis
+KF607083.1	Eukaryota;NA;Armophorea;Metopida;Metopidae;Metopus;Metopus fuscus
+KJ701221.1	Eukaryota;Basidiomycota;Cystobasidiomycetes;NA;NA;NA;Cystobasidiomycetes sp. MT-2015d
+DQ099671.1	Eukaryota;Ascomycota;Lecanoromycetes;Lecanorales;Stereocaulaceae;Stereocaulon;Stereocaulon urceolatum
+X87131.1	Eukaryota;NA;NA;Trichomonadida;Trichomonadidae;Pentatrichomonoides;Pentatrichomonoides scroa
+KX665396.1	Eukaryota;Cnidaria;Hydrozoa;Leptothecata;Campanulariidae;Obelia;Obelia dichotoma
+KM514834.1	Eukaryota;Chlorophyta;Trebouxiophyceae;Chlorellales;Chlorellaceae;Auxenochlorella;Auxenochlorella pyrenoidosa
+AJ850051.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Protocucujidae;Ericmodes;Ericmodes sylvaticus
+KJ024816.1	Eukaryota;Bryozoa;Phylactolaemata;NA;Plumatellidae;Plumatella;Plumatella emarginata
+AY425646.1	Eukaryota;Ascomycota;Lecanoromycetes;Lecanorales;Psoraceae;Protoblastenia;Protoblastenia calvella
+GU214588.1	Eukaryota;Ascomycota;Dothideomycetes;Capnodiales;Mycosphaerellaceae;Septoria;Septoria protearum
+KM103389.1	Eukaryota;Streptophyta;Liliopsida;Poales;Restionaceae;Anarthria;Anarthria sp. KH-2014
+EU710822.1	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp. 14201
+BX020391.1	Eukaryota;Arthropoda;Insecta;Diptera;Culicidae;Anopheles;Anopheles gambiae
+JQ315616.1	Eukaryota;Chlorophyta;Trebouxiophyceae;Microthamniales;NA;Stichococcus;Stichococcus sp. KMMCC 293
+JX178877.1	Eukaryota;NA;Spirotrichea;Tintinnida;Codonellidae;Tintinnopsis;Tintinnopsis sp. JG-2011a
+JX446434.1	Eukaryota;Chlorophyta;Chlorophyceae;Chlorosarcinales;NA;Neochlorosarcina;Neochlorosarcina sp. WJT66VFNP5
+DQ140158.1	Eukaryota;Euglenida;NA;Euglenales;Euglenaceae;Euglena;Euglena sp. MI32
+GQ377666.1	Eukaryota;NA;NA;Vampyrellida;Leptophryidae;Theratromyxa;Theratromyxa weberi
+AJ009329.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Ephedrus;Ephedrus persicae
+FJ748873.1	Eukaryota;Streptophyta;NA;Ranunculales;Ranunculaceae;Ranunculus;Ranunculus sieboldii
+EU861395.1	Eukaryota;NA;Rhodellophyceae;Rhodellales;Rhodellaceae;Rhodella;Rhodella violacea
+FJ687687.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Coccinellidae;Halmus;Halmus coelestris
+KC626765.1	Eukaryota;Echinodermata;Crinoidea;Bourgueticrinida;Porphyrocrinidae;Porphyrocrinus;Porphyrocrinus thalassae
+KY707970.1	Eukaryota;NA;NA;Kinetoplastida;Trypanosomatidae;Leishmania;Leishmania infantum
+KC429349.1	Eukaryota;Mollusca;Bivalvia;Unionoida;Unionidae;Unio;Unio pictorum
+HG975517.1	Eukaryota;Streptophyta;NA;Solanales;Solanaceae;Solanum;Solanum lycopersicum
+JQ907248.1	Eukaryota;Arthropoda;Insecta;Embioptera;Oligotomidae;Aposthonia;Aposthonia sp. KBMEB103
+EF632453.1	Eukaryota;Tardigrada;Heterotardigrada;Echiniscoidea;Echiniscidae;Echiniscus;Echiniscus sp. CJS-2007a
+FJ812342.1	Eukaryota;Arthropoda;Malacostraca;Decapoda;Hymenosomatidae;Halicarcinus;Halicarcinus ovatus
+KM588881.1	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Enoplosidae;Enoplosus;Enoplosus armatus
+AY220088.1	Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;NA;Chlamydomonadaceae sp. Mary 9/21 BT-14w
+AY838847.1	Eukaryota;Annelida;Polychaeta;Eunicida;Oenonidae;Drilonereis;Drilonereis longa
+FJ946382.1	Eukaryota;Arthropoda;Arachnida;Opiliones;Sironidae;Cyphophthalmus;Cyphophthalmus sp. 6 JM-2009
+AF388623.1	Eukaryota;NA;Florideophyceae;Gigartinales;Phyllophoraceae;Gymnogongrus;Gymnogongrus dilatatus
+LT702898.1	Eukaryota;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;Strigamia;Strigamia acuminata
+HM593014.1	Eukaryota;NA;NA;Kinetoplastida;Trypanosomatidae;Angomonas;Angomonas deanei
+AJ287486.1	Eukaryota;Platyhelminthes;Trematoda;Opisthorchiida;Acanthocolpidae;Cableia;Cableia pudica
+KY750759.1	Eukaryota;NA;NA;Honigbergiellida;NA;NA;Honigbergiellida sp.
+KM020088.1	Eukaryota;Chlorophyta;Chlorophyceae;Sphaeropleales;Scenedesmaceae;Coelastrella;Coelastrella oocystiformis
+KT446756.1	Eukaryota;Arthropoda;Arachnida;Scorpiones;Bothriuridae;Brachistosternus;Brachistosternus montanus
+LC047804.1	Eukaryota;Cnidaria;Cubozoa;Carybdeida;Alatinidae;Alatina;Alatina philippina
+FR837724.1	Eukaryota;Xenacoelomorpha;Acoela;NA;Childiidae;Philactinoposthia;Philactinoposthia coneyi
+XR_898105.1	Eukaryota;Ascomycota;Sordariomycetes;Sordariales;Sordariaceae;Neurospora;Neurospora crassa
+JN701600.1	Eukaryota;Arthropoda;Malacostraca;Decapoda;Scyllaridae;Scyllarides;Scyllarides haanii
+KP760119.1	Eukaryota;Nematoda;Chromadorea;Spirurida;Onchocercidae;Breinlia;Breinlia jittapalapongi
+MF783088.1	Eukaryota;NA;Oomycetes;Peronosporales;Peronosporaceae;Phytophthora;Phytophthora capsici
+AF421771.1	Eukaryota;Nematomorpha;Gordioida;Gordea;Gordiidae;Paragordius;Paragordius tricuspidatus
+JX024003.1	Eukaryota;Arthropoda;Arachnida;Araneae;Pholcidae;Mesabolivar;Mesabolivar sp. DNA100446398
+AB002079.1	Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;Aspergillus restrictus
+KC966571.1	Eukaryota;Arthropoda;Insecta;Coleoptera;Nitidulidae;Cybocephalus;Cybocephalus sp. MJM-2013
+KR068961.1	Eukaryota;Arthropoda;Insecta;Lepidoptera;Limacodidae;Venadicodia;Venadicodia caneti
+HF952613.1	Eukaryota;NA;Cryptophyta;Pyrenomonadales;Pyrenomonadaceae;Rhodomonas;Rhodomonas sp. CCMP740
+JN689064.1	Eukaryota;Arthropoda;Arachnida;Araneae;Dysderidae;Parachtes;Parachtes loboi
