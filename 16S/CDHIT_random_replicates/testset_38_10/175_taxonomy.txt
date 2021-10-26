@@ -1,0 +1,22 @@
+AM230706.1	Bacteria;Cyanobacteria;NA;Nostocales;Tolypothrichaceae;Tolypothrix;Tolypothrix sp. TOL328
+DQ986788.1	Eukaryota;Ascomycota;Lecanoromycetes;Rhizocarpales;Rhizocarpaceae;Rhizocarpon;Rhizocarpon oederi
+HM566583.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. SC53(2010)
+DQ156080.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. mpa2.1a
+CP012021.1	Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria monocytogenes
+KY408220.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+GU552585.1	Eukaryota;Chordata;Amphibia;Caudata;Hynobiidae;Hynobius;Hynobius sp. 2 HJB-2010
+JQ010851.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. CRF3-Bu-3
+KX649125.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus;Pediococcus ethanolidurans
+KY508609.1	Bacteria;Cyanobacteria;NA;Nostocales;Tolypothrichaceae;Kryptousia;Kryptousia macronema
+KX655807.1	Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Lindgomycetaceae;Lindgomyces;Lindgomyces cigarospora
+KJ831428.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. 940B12_12EESBL
+KX001792.1	Bacteria;Cyanobacteria;NA;Oscillatoriales;NA;Potamolinea;Potamolinea sp. 33PC
+KP236195.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria;Ruegeria arenilitoris
+KJ532106.1	Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Brevibacillus;Brevibacillus sp. UYSB29
+KP702879.1	Eukaryota;NA;Raphidophyceae;Chattonellales;Chattonellaceae;Heterosigma;Heterosigma akashiwo
+KR051472.1	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Candidatus Phytoplasma;Candidatus Phytoplasma pini
+KJ365915.1	Eukaryota;Mollusca;Bivalvia;Pterioida;Pinnidae;Atrina;Atrina chautardi
+JX303777.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+LT560363.1	Eukaryota;Chlorophyta;Trebouxiophyceae;Chlorellales;Chlorellaceae;Pseudochlorella;Pseudochlorella signiensis
+KF250839.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus durans
+KX427234.1	Eukaryota;NA;Florideophyceae;Gelidiales;Pterocladiaceae;Pterocladiella;Pterocladiella media

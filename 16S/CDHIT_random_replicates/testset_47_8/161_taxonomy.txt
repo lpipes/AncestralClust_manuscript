@@ -1,0 +1,20 @@
+AB550659.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. NCCP-144
+KC167863.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+KF479534.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. A15
+AY593957.1	Eukaryota;Nematoda;Enoplea;Triplonchida;Prismatolaimidae;Prismatolaimus;Prismatolaimus dolichurus
+JQ038221.1	Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;NA;Ettlia;Ettlia texensis
+EU195866.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia pickettii
+JN049507.1	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium avium complex
+LN624614.1	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;Erythrobacter citreus
+KF311771.1	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Helicobacter pylori
+KT185082.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus amyloliquefaciens
+AY167827.2	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas sp. SAFR-042
+KM979191.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. H2-70
+AY337531.1	Eukaryota;Chordata;Mammalia;NA;Bovidae;Bos;Bos taurus
+AB041772.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. TH2
+KX911333.1	Eukaryota;Chordata;Mammalia;Carnivora;Felidae;Lynx;Lynx pardinus
+KF040994.1	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Labedella;Labedella gwakjiensis
+EF451681.1	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Cellulomonas;Cellulomonas sp. KAR51
+AB302360.1	Bacteria;Proteobacteria;Alphaproteobacteria;NA;NA;NA;alpha proteobacterium A39
+NR_043050.1	Bacteria;Spirochaetes;Spirochaetia;NA;Leptospiraceae;Leptospira;Leptospira noguchii
+JX989589.1	Eukaryota;Chordata;Amphibia;Anura;Dicroglossidae;Quasipaa;Quasipaa exilispinosa

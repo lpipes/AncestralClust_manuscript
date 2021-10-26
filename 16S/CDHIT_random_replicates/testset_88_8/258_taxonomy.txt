@@ -1,0 +1,17 @@
+AB568312.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia vietnamiensis
+MF288822.1	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp.
+KC283145.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium elkanii
+NR_027220.1	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas hydrothermalis
+KF021784.1	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. H-102
+JF346670.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+HQ445963.1	Eukaryota;NA;Oligohymenophorea;Thigmotrichida;Ancistridae;Ancistrum;Ancistrum haliotis
+KC179513.1	Eukaryota;Ascomycota;Lecanoromycetes;Teloschistales;Teloschistaceae;Cerothallia;Cerothallia yorkensis
+LC178251.1	Eukaryota;Chordata;Actinopteri;Carangiformes;Carangidae;Seriola;Seriola lalandi
+KM062571.1	Eukaryota;Xenacoelomorpha;Nemertodermatida;NA;Nemertodermatidae;Nemertinoides;Nemertinoides wolfgangi
+KT228274.1	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Rothia;Rothia sp. MYI-52
+KY296892.1	Eukaryota;Nemertea;Enopla;Monostilifera;Amphiporidae;Abyssonemertes;Abyssonemertes kajiharai
+KY319057.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;NA;Reyranella;Reyranella sp.
+KT328465.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus agalactiae
+KU715842.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter pittii
+HQ537160.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;NA;NA;Rhodobacterales bacterium HOT5E6
+HQ663162.1	Bacteria;Proteobacteria;Betaproteobacteria;NA;NA;NA;beta proteobacterium SCGC AAA027-I06

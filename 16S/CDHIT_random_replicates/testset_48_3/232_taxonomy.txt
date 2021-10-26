@@ -1,0 +1,22 @@
+CP010440.1	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
+MF424012.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus fermentum
+KX129838.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus velezensis
+KF380971.1	Eukaryota;Ascomycota;Lecanoromycetes;Lecanorales;Parmeliaceae;Hypotrachyna;Hypotrachyna chlorina
+KM376429.1	Bacteria;Cyanobacteria;NA;Chroococcales;Microcystaceae;Microcystis;Microcystis cf. aeruginosa
+KF853115.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+KU851173.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus gasseri
+JN944177.1	Archaea;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae;Sulfolobus;Sulfolobus sp. MK3
+KU605761.1	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Frigoribacterium;Frigoribacterium faeni
+NR_027581.1	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Capnocytophaga;Capnocytophaga ochracea
+NR_024943.1	Bacteria;Proteobacteria;Oligoflexia;Bacteriovoracales;Bacteriovoracaceae;Peredibacter;Peredibacter starrii
+KC505089.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+EF545591.1	Eukaryota;Chordata;Mammalia;NA;Suidae;Sus;Sus scrofa
+AB571232.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Agrobacterium;Agrobacterium tumefaciens
+HQ650773.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus megaterium
+AJ630163.2	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium;Photobacterium sp. S14
+MF369915.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus reuteri
+LC146303.1	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Gymnogobius;Gymnogobius urotaenia
+HM213739.1	Eukaryota;NA;NA;Rotaliida;Nonionidae;Haynesina;Haynesina orbiculare
+KF765450.1	Eukaryota;Streptophyta;NA;Rosales;Rosaceae;Prunus;Prunus mume
+MF354362.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc lactis
+AM176776.1	Bacteria;Proteobacteria;Acidithiobacillia;Acidithiobacillales;Acidithiobacillaceae;Acidithiobacillus;Acidithiobacillus sp. TH-1

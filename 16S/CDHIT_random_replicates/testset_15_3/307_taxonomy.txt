@@ -1,0 +1,42 @@
+DQ643060.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. CO45
+KU839706.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;Limnohabitans sp.
+NR_042497.1	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium saccharophilum
+JN084201.1	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides thetaiotaomicron
+FN298932.1	Eukaryota;Chlorophyta;Trebouxiophyceae;Chlorellales;Chlorellaceae;Auxenochlorella;Auxenochlorella symbiontica
+KX966509.1	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio campbellii
+JF905443.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas mendocina
+AF321212.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. Ec3-3
+JN409378.1	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. AV229
+KJ939078.1	Bacteria;Cyanobacteria;NA;Oscillatoriales;Microcoleaceae;Pseudophormidium;Pseudophormidium sp. WJT71-NPBG24
+KY363558.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus fermentum
+KF149044.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;Lactococcus lactis
+AB625958.1	Eukaryota;Arthropoda;Maxillopoda;Calanoida;Metridinidae;Pleuromamma;Pleuromamma scutullata
+KJ746954.1	Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Hypophthalmichthys;Hypophthalmichthys molitrix
+AY167313.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. ANT9287
+CP000644.1	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;Aeromonas salmonicida
+EU167066.1	Eukaryota;Chordata;Aves;Pelecaniformes;Phalacrocoracidae;Urile;Urile pelagicus
+HM007570.1	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Clostridioides;Clostridioides difficile
+KC565530.1	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas prydzensis
+LN845997.1	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingobium yanoikuyae
+AY612177.1	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Riemerella;Riemerella anatipestifer
+KF600464.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;NA;Comamonadaceae bacterium B8_3LCO2
+KC414682.1	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter crystallopoietes
+CP017873.1	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter coli
+HM054453.1	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Brevibacteriaceae;Brevibacterium;Brevibacterium sp. JSM 081041
+KF282768.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter sp. RG30
+MF049038.1	Eukaryota;Mollusca;Gastropoda;Thecosomata;Cavoliniidae;Diacria;Diacria trispinosa
+KY770628.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
+HQ717192.1	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus sp. C1I19
+LN832937.1	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio celticus
+JN644070.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Ensifer;Ensifer adhaerens
+U88656.1	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;Aeromonas sp. 'CDC 9013-89'
+KU991848.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter sp. R124
+LC105795.1	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Sardinops;Sardinops melanostictus
+FN435894.1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. 32 JDE-2009
+KY411485.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+GU416600.1	Bacteria;Spirochaetes;Spirochaetia;Spirochaetales;Spirochaetaceae;Treponema;Treponema denticola
+LN881627.1	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. 1011MAR4D57
+NR_125465.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;NA;Methyloceanibacter;Methyloceanibacter caenitepidi
+MF425421.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium
+KY408987.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+AF001479.1	Bacteria;Cyanobacteria;NA;Synechococcales;Synechococcaceae;Synechococcus;Synechococcus sp. WH 8103

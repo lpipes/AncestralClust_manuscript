@@ -1,0 +1,19 @@
+CP010506.1	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter jejuni
+KU667065.1	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas sp. 7828M
+JN975125.1	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter sp. B54
+KM112288.1	Eukaryota;Chordata;Mammalia;Primates;Cheirogaleidae;Microcebus;Microcebus tanosi
+LC049730.1	Eukaryota;Chordata;Actinopteri;Gobiiformes;Gobiidae;Gnatholepis;Gnatholepis cauerensis
+KY595457.1	Eukaryota;Streptophyta;NA;Gentianales;Gentianaceae;Gentiana;Gentiana crassicaulis
+JX005883.1	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp. SOZ3-5032
+FJ939747.1	Eukaryota;Arthropoda;Insecta;Hymenoptera;Formicidae;Arnoldius;Arnoldius sp. AU01
+KX880957.1	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;Lactococcus garvieae
+JX014569.1	Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Alicyclobacillus;Alicyclobacillus sp. enrichment culture clone MRT18-15
+KY409087.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+KY067262.1	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp.
+KP694012.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. FVJONG14
+KJ494322.1	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. cr20(2014)
+JX989675.1	Eukaryota;Chordata;Amphibia;Anura;Dicroglossidae;Quasipaa;Quasipaa spinosa
+KF578423.1	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. G1-31-10
+KU991554.1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter soli
+KY408193.1	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+HG764152.1	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Candidatus Portiera;Portiera sp. P-252
