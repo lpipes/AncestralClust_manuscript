@@ -1,5 +1,5 @@
 # AncestralClust_manuscript
-data from the AncestralClust manuscript
+data for the AncestralClust manuscript
 
 # AncestralClust
 <a href="https://github.com/lpipes/AncestralClust">AncestralClust</a>
